@@ -33,7 +33,96 @@ document.addEventListener("DOMContentLoaded", () => {
                             "link2" : "https://id.shp.ee/SNusKzH"
                         }
                     ]
-                }
+                },
+                {
+                    "name" : "Grip",
+                    "logo" : "https://rcb.com/wp-content/uploads/2021/09/HG55-red.png",
+                    "products" : [
+                        {
+                            "name": "HG55",
+                            "logo": "https://rcb.com/wp-content/uploads/2021/09/HG55-red.png",
+                            "link1": "https://tokopedia.link/Valo18Sf7Jb",
+                            "link2": "https://id.shp.ee/VqchX9Z "
+                        },
+                        {
+                            "name": "HG66",
+                            "logo": "https://rcb.com/wp-content/uploads/2021/09/HG66-yellow.png",
+                            "link1": "https://tokopedia.link/i06qQ5qg7Jb",
+                            "link2": "https://id.shp.ee/qfRWea8 "
+                        },
+                        {
+                            "name": "HG77",
+                            "logo": "https://rcb.com/wp-content/uploads/2023/12/DSC08228.png",
+                            "link1": "https://tokopedia.link/coWRBuHg7Jb",
+                            "link2": "https://id.shp.ee/mp5wava "
+                        },
+                        {
+                            "name": "Nagamaki",
+                            "logo": "https://rcb.com/wp-content/uploads/2023/11/01HG020B.png",
+                            "link1": "https://tokopedia.link/A2M6euph7Jb",
+                            "link2": "https://id.shp.ee/NGUpDeN "
+                        },
+                        {
+                            "name": "AHG66",
+                            "logo": "https://rcb.com/wp-content/uploads/2021/09/AHG66-black.png",
+                            "link1": "https://tokopedia.link/LFuL12ki7Jb",
+                            "link2": "https://id.shp.ee/AzHStKJ "
+                        },
+                        {
+                            "name": "AHG13",
+                            "logo": "https://ph-test-11.slatic.net/p/4a05c40c67c0a304118ffee394c5e296.jpg",
+                            "link1": "https://tokopedia.link/BPSy8x2i7Jb",
+                            "link2": "https://id.shp.ee/LmDdptA "
+                        },
+                        {
+                            "name": "AHG11",
+                            "logo": "https://www.racingboy.com.ph/wp-content/uploads/2018/04/AHG-11-497x300.jpg",
+                            "link1": "https://tokopedia.link/waztjMWl7Jb",
+                            "link2": "https://id.shp.ee/JGDvSeB "
+                        },
+                        {
+                            "name": "AHG55",
+                            "logo": "https://www.racingboy.com.ph/wp-content/uploads/2018/05/01HG010-red-1024x978-314x300.jpg",
+                            "link1": "https://tokopedia.link/zFX5oZcm7Jb",
+                            "link2": "https://id.shp.ee/JjW3bWt "
+                        },
+                        {
+                            "name": "AHG88",
+                            "logo": "https://img.lazcdn.com/g/p/29c343ba9892788af034724bfa8572e1.png_720x720q80.png",
+                            "link1": "https://tokopedia.link/yv1WaOem7Jb",
+                            "link2": "https://id.shp.ee/UN3Deif "
+                        },
+                        {
+                            "name": "HG305",
+                            "logo": "https://www.racingboy.com.ph/wp-content/uploads/2018/04/tbolt-6-419x300.jpg",
+                            "link1": "https://tokopedia.link/Q6mzyDgm7Jb",
+                            "link2": "https://id.shp.ee/gBww6qz "
+                        },
+                        {
+                            "name": "HG0845",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98p-lw2ee9u98izi91",
+                            "link1": "https://tokopedia.link/IYeNWBim7Jb",
+                            "link2": "https://id.shp.ee/sxcB962 "
+                        },
+                        {
+                            "name": "Grip Karet 201",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-lw2ee9u99xjy49",
+                            "link1": "https://tokopedia.link/pvE8hkkm7Jb",
+                            "link2": "https://id.shp.ee/1t2V43J "
+                        },
+                        {
+                            "name": "Grip Karet 303",
+                            "logo": "https://ae05.alicdn.com/kf/H6ecf4dd8f3f849faa8439e30ca76dec6r/Universal-Motorcycle-Rubber-Handlebar-Handle-Bar-Grip-Motorbike-For-HONDA-XRV750-XRV-750-XRV750-L-Y.jpg",
+                            "link1": "https://tokopedia.link/IUXfnoHj7Jb",
+                            "link2": "https://id.shp.ee/kN6UgXj"
+                        }
+                    ]
+                },
+                // {
+                //     "name" : "",
+                //     "logo" : "",
+                //     "products" : ,
+                // }
             ]
         },
         {
