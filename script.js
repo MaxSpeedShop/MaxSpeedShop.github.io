@@ -1,4 +1,9 @@
 document.addEventListener("DOMContentLoaded", () => {
+    // {
+    //     "name" : "",
+    //     "logo" : "",
+    //     "products" : 
+    // }
     const data = [
         {
             "name" : "Racing Boy",
@@ -118,11 +123,6 @@ document.addEventListener("DOMContentLoaded", () => {
                         }
                     ]
                 },
-                // {
-                //     "name" : "",
-                //     "logo" : "",
-                //     "products" : ,
-                // }
             ]
         },
         {
@@ -130,14 +130,32 @@ document.addEventListener("DOMContentLoaded", () => {
             "logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb6-KepIr5Q3xhAuRkCcknEtw_1zqJznbWWg&s",
             "categories" : [
                 {
-                    "name" : "Velg",
-                    "logo" : "https://cdn.discordapp.com/attachments/1246347054813548635/1246347633237295125/sp811-1-jpg.png?ex=665c0f2f&is=665abdaf&hm=84a258f10538fad537891f695bf2ea6a9dcda13e43ab0fcfeece82d4f4edd4d1&",
+                    "name" : "Grip",
+                    "logo" : "https://down-id.img.susercontent.com/file/id-11134207-7r992-lrxyn43a9jd511",
                     "products" : [
                         {
-                            "name" : "SP811",
-                            "logo" : "https://cdn.discordapp.com/attachments/1246347054813548635/1246347633237295125/sp811-1-jpg.png?ex=665c0f2f&is=665abdaf&hm=84a258f10538fad537891f695bf2ea6a9dcda13e43ab0fcfeece82d4f4edd4d1&",
-                            "link1" : "https://id.shp.ee/9PrBY92",
-                            "link2" : "https://tokopedia.link/5xBYQxGd4Jb"
+                            "name": "Octagon Series",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r992-lrxyn43a9jd511",
+                            "link1": "https://tokopedia.link/pXaEat5o7Jb",
+                            "link2": "https://id.shp.ee/oCFrVwD "
+                        },
+                        {
+                            "name": "Road Race Racing",
+                            "logo": "https://s0.bukalapak.com/img/03491791003/s-463-463/data.jpeg.webp",
+                            "link1": "https://tokopedia.link/wfFkGwrp7Jb",
+                            "link2": "https://id.shp.ee/ZSRzXSY "
+                        },
+                        {
+                            "name": "Dual Compound",
+                            "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/8/11/187fd744-3dd1-4fc6-8cbf-05571872faec.png",
+                            "link1": "https://tokopedia.link/nI4yzetp7Jb",
+                            "link2": "https://id.shp.ee/QDHwine "
+                        },
+                        {
+                            "name": "Full Black",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-loqj99nnguwc63_tn.webp",
+                            "link1": "https://tokopedia.link/lbyeGOup7Jb",
+                            "link2": "https://id.shp.ee/B78VwCM"
                         }
                     ]
                 }
@@ -202,14 +220,26 @@ document.addEventListener("DOMContentLoaded", () => {
             "logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgTHMzKth0PmMvSMgmov9pn_fh0Xmb890O8Q&s",
             "categories" : [
                 {
-                    "name" : "Velg",
-                    "logo" : "https://cdn.discordapp.com/attachments/1246347054813548635/1246347633237295125/sp811-1-jpg.png?ex=665c0f2f&is=665abdaf&hm=84a258f10538fad537891f695bf2ea6a9dcda13e43ab0fcfeece82d4f4edd4d1&",
+                    "name" : "Bearing",
+                    "logo" : "https://laz-img-sg.alicdn.com/p/e0effb1d8a7b90cc59b2bee164ef3125.jpg",
                     "products" : [
                         {
-                            "name" : "SP811",
-                            "logo" : "https://cdn.discordapp.com/attachments/1246347054813548635/1246347633237295125/sp811-1-jpg.png?ex=665c0f2f&is=665abdaf&hm=84a258f10538fad537891f695bf2ea6a9dcda13e43ab0fcfeece82d4f4edd4d1&",
-                            "link1" : "https://id.shp.ee/9PrBY92",
-                            "link2" : "https://tokopedia.link/5xBYQxGd4Jb"
+                            "name": "Bantalan 6004",
+                            "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/11/21/af9f5982-a0f0-464a-9958-1164cc83e806.jpg",
+                            "link1": "https://tokopedia.link/c9rlDEMn7Jb",
+                            "link2": "https://tokopedia.link/i06qQ5qg7Jb "
+                        },
+                        {
+                            "name": "Bantalan 6302",
+                            "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/11/21/af9f5982-a0f0-464a-9958-1164cc83e806.jpg",
+                            "link1": "https://tokopedia.link/iOX4V8Jn7Jb",
+                            "link2": "https://id.shp.ee/G2oh4gJ "
+                        },
+                        {
+                            "name": "Bantalan 6202",
+                            "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/11/21/af9f5982-a0f0-464a-9958-1164cc83e806.jpg",
+                            "link1": "https://tokopedia.link/huq2MxLn7Jb",
+                            "link2": "https://id.shp.ee/2vkY2Z8"
                         }
                     ]
                 }
