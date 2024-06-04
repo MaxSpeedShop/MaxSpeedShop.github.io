@@ -105,24 +105,60 @@ document.addEventListener("DOMContentLoaded", () => {
                         },
                         {
                             "name": "HG0845",
-                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98p-lw2ee9u98izi91",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98p-lw2ee9u9cqou6c",
                             "link1": "https://tokopedia.link/IYeNWBim7Jb",
                             "link2": "https://id.shp.ee/sxcB962 "
                         },
                         {
                             "name": "Grip Karet 201",
-                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-lw2ee9u99xjy49",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lw2ee9u9bc4e14",
                             "link1": "https://tokopedia.link/pvE8hkkm7Jb",
                             "link2": "https://id.shp.ee/1t2V43J "
                         },
                         {
                             "name": "Grip Karet 303",
-                            "logo": "https://ae05.alicdn.com/kf/H6ecf4dd8f3f849faa8439e30ca76dec6r/Universal-Motorcycle-Rubber-Handlebar-Handle-Bar-Grip-Motorbike-For-HONDA-XRV750-XRV-750-XRV750-L-Y.jpg",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lw2ee9u9e59a32",
                             "link1": "https://tokopedia.link/IUXfnoHj7Jb",
                             "link2": "https://id.shp.ee/kN6UgXj"
                         }
                     ]
                 },
+                {
+                    "name" : "Handle",
+                    "logo" : "https://down-id.img.susercontent.com/file/0a8ba64d3f3d0849077da80211ec1d51",
+                    "products" : [
+                        {
+                            "name": "Alloy Lever Handle set S3",
+                            "logo": "https://down-id.img.susercontent.com/file/0a8ba64d3f3d0849077da80211ec1d51",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-handle-s3-series-nmax-old-nmax-new-r25-vixion-r15-mxking-adv-pcx160cbs-satria-fu-fi-gsx-150-aerox",
+                            "link2": "https://shopee.co.id/product/277671211/16323097638/ "
+                        },
+                        {
+                            "name": "Alloy Lever Handle E+",
+                            "logo": "https://s1.bukalapak.com/img/69997548103/s-400-400/data.jpeg.webp",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-allo-lever-handle-e-nmax-new-nmax-old-beat-fi-cbs-beat-street-cbs",
+                            "link2": "https://shopee.co.id/product/277671211/29501702048/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Caliper",
+                    "logo" : "https://gc-img.webike.net/@wid-shop/images/products/rcb/rcb-brake-caliper-s-red_TM.jpg",
+                    "products" : [
+                        {
+                            "name": "Brake Caliper S Series",
+                            "logo": "https://gc-img.webike.net/@wid-shop/images/products/rcb/rcb-brake-caliper-s-red_TM.jpg",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-brake-caliper-s-series-mxking-vixion-nmax-mx-new-beat-vario",
+                            "link2": "https://shopee.co.id/product/277671211/9549842762/ "
+                        },
+                        {
+                            "name": "Brake Caliper E Series",
+                            "logo": "https://rcb.com/wp-content/uploads/2023/08/e-series-brake-caliper-red.jpg",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-caliper-e-series-nmax-new-old-satria-fu-beat-scoopy-vario-mio-mx",
+                            "link2": "https://shopee.co.id/product/277671211/19683369356/"
+                        }
+                    ]
+                }
             ]
         },
         {
