@@ -274,18 +274,6 @@ document.addEventListener("DOMContentLoaded", () => {
             "logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE5lKWaGlPI_HZFj7mdS7Ha3S6_dzmqFIeeQ&s",
             "categories" : [
                 {
-                    "name" : "Velg",
-                    "logo" : "https://cdn.discordapp.com/attachments/1246347054813548635/1246347633237295125/sp811-1-jpg.png?ex=665c0f2f&is=665abdaf&hm=84a258f10538fad537891f695bf2ea6a9dcda13e43ab0fcfeece82d4f4edd4d1&",
-                    "products" : [
-                        {
-                            "name" : "SP811",
-                            "logo" : "https://cdn.discordapp.com/attachments/1246347054813548635/1246347633237295125/sp811-1-jpg.png?ex=665c0f2f&is=665abdaf&hm=84a258f10538fad537891f695bf2ea6a9dcda13e43ab0fcfeece82d4f4edd4d1&",
-                            "link1" : "https://id.shp.ee/9PrBY92",
-                            "link2" : "https://tokopedia.link/5xBYQxGd4Jb"
-                        }
-                    ]
-                },
-                {
                     "name" : "Non-Tubbles",
                     "logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyui0JD_TDqY8nUnxR2JA4Fb71tdNc5WkTTA&s",
                     "products" : [
@@ -302,6 +290,30 @@ document.addEventListener("DOMContentLoaded", () => {
                             "link2": "https://id.shp.ee/9sXy5t7"
                         }
                     ]
+                },
+                {
+                    "name" : "Tubbles",
+                    "logo" : "https://down-id.img.susercontent.com/file/86216f24a51cfa640163af8e476cd827",
+                    "products" : [
+                        {
+                            "name": "K488",
+                            "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/10/15/196c2df6-eaa1-45e3-bf61-4d3be4e415bc.jpg",
+                            "link1": "https://tokopedia.link/KUBPVOjF7Jb",
+                            "link2": "https://id.shp.ee/9sXy5t7 "
+                        },
+                        {
+                            "name": "K6007",
+                            "logo": "https://down-id.img.susercontent.com/file/86216f24a51cfa640163af8e476cd827",
+                            "link1": "https://tokopedia.link/9npUrlmF7Jb",
+                            "link2": "https://id.shp.ee/1t7Wxcr "
+                        },
+                        {
+                            "name": "K492",
+                            "logo": "https://www.chongaik.com.sg/2675-superlarge_default/kenda-motorcycle-tyres-made-in-vietnam-k492.jpg",
+                            "link1": "https://tokopedia.link/1TPOL3nF7Jb",
+                            "link2": "https://id.shp.ee/92BQLRT"
+                        }
+                    ]
                 }
             ]
         },
@@ -309,36 +321,14 @@ document.addEventListener("DOMContentLoaded", () => {
             "name" : "XPress",
             "logo" : "https://down-id.img.susercontent.com/file/5c91f7e007df53d657d80140066f607b",
             "categories" : [
-                {
-                    "name" : "Velg",
-                    "logo" : "https://cdn.discordapp.com/attachments/1246347054813548635/1246347633237295125/sp811-1-jpg.png?ex=665c0f2f&is=665abdaf&hm=84a258f10538fad537891f695bf2ea6a9dcda13e43ab0fcfeece82d4f4edd4d1&",
-                    "products" : [
-                        {
-                            "name" : "SP811",
-                            "logo" : "https://cdn.discordapp.com/attachments/1246347054813548635/1246347633237295125/sp811-1-jpg.png?ex=665c0f2f&is=665abdaf&hm=84a258f10538fad537891f695bf2ea6a9dcda13e43ab0fcfeece82d4f4edd4d1&",
-                            "link1" : "https://id.shp.ee/9PrBY92",
-                            "link2" : "https://tokopedia.link/5xBYQxGd4Jb"
-                        }
-                    ]
-                }
+                
             ]
         },
         {
             "name" : "DYNAVOLT",
             "logo" : "https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-logo/aef5e73842ab3b1c1cf70ea653720b88.jpg",
             "categories" : [
-                {
-                    "name" : "Velg",
-                    "logo" : "https://cdn.discordapp.com/attachments/1246347054813548635/1246347633237295125/sp811-1-jpg.png?ex=665c0f2f&is=665abdaf&hm=84a258f10538fad537891f695bf2ea6a9dcda13e43ab0fcfeece82d4f4edd4d1&",
-                    "products" : [
-                        {
-                            "name" : "SP811",
-                            "logo" : "https://cdn.discordapp.com/attachments/1246347054813548635/1246347633237295125/sp811-1-jpg.png?ex=665c0f2f&is=665abdaf&hm=84a258f10538fad537891f695bf2ea6a9dcda13e43ab0fcfeece82d4f4edd4d1&",
-                            "link1" : "https://id.shp.ee/9PrBY92",
-                            "link2" : "https://tokopedia.link/5xBYQxGd4Jb"
-                        }
-                    ]
-                }
+                
             ]
         },
         {
