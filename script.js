@@ -155,7 +155,79 @@ document.addEventListener("DOMContentLoaded", () => {
                             "name": "Brake Caliper E Series",
                             "logo": "https://rcb.com/wp-content/uploads/2023/08/e-series-brake-caliper-red.jpg",
                             "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-caliper-e-series-nmax-new-old-satria-fu-beat-scoopy-vario-mio-mx",
-                            "link2": "https://shopee.co.id/product/277671211/19683369356/"
+                            "link2": "https://shopee.co.id/product/277671211/19683369356/ "
+                        },
+                        {
+                            "name": "Brake Caliper R1 4 Piston",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7qul1-ljxov0f8q5gqd8",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-caliper-r1-kiri-4-piston-merah-silver",
+                            "link2": "https://shopee.co.id/product/277671211/26651783933/ "
+                        },
+                        {
+                            "name": "Brake Caliper S2 Series Sat fu fi",
+                            "logo": "https://gc-img.webike.net/@wid-shop/images/products/rcb/rcb-brake-caliper-s55-black.jpg",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-caliper-s2-caliper-belakang-satria-fu-fi",
+                            "link2": "https://shopee.co.id/product/277671211/27651796866/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Master",
+                    "logo" : "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/2/16/79fda230-08da-425f-b289-97d5f3b1b163.png",
+                    "products" : [
+                        {
+                            "name": "Master Brake Pump S1 Series",
+                            "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/2/16/79fda230-08da-425f-b289-97d5f3b1b163.png",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-master-brake-pump-s1-kanan-14mm",
+                            "link2": "https://shopee.co.id/product/277671211/6939390359/ "
+                        },
+                        {
+                            "name": "Master Brake Pump E2 Series ",
+                            "logo": "https://gc-img.webike.net/@wid-shop/images/products/rcb/rcb-brake-pump-e2_TM.jpg",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-master-brake-pump-e2-kiri-kanan",
+                            "link2": "https://shopee.co.id/product/277671211/6939516815/ "
+                        },
+                        {
+                            "name": "Master Brake Pump E2 Cable Only",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134601-7qul6-liowkmk2lva1aa",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-master-brake-pump-e-2-cable-only-kopling-hitam",
+                            "link2": "https://shopee.co.id/product/277671211/6141201513/ "
+                        },
+                        {
+                            "name": "Master Brake Pump E3 Series",
+                            "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/2/16/bc68f122-44e8-4c52-8366-e25a59b85cd0.png",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-master-brake-pump-e3-12-7mm-kanan-kiri",
+                            "link2": "https://shopee.co.id/product/277671211/4047609263/ "
+                        },
+                        {
+                            "name": "Master Brake Pump S1 Cable Only",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lw5602960hlq60",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-master-brake-pump-s1-kiri-kopling",
+                            "link2": "https://shopee.co.id/product/277671211/4039403609/ "
+                        },
+                        {
+                            "name": "Rear Brake Pump E2 Series",
+                            "logo": "https://rcb.com/wp-content/uploads/2021/09/GRT-master-brake-pump-black.png",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-master-rem-belakang-rear-brake-pump-e12-hitam",
+                            "link2": "https://shopee.co.id/product/277671211/6539782491/ "
+                        },
+                        {
+                            "name": "Rear Brake Pump S1 Series",
+                            "logo": "https://rcb.com/wp-content/uploads/2021/09/S1-Rear-GRT-blue.png",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-master-rem-belakang-rear-brake-pump-s1-merah-silver-biru-14mm",
+                            "link2": "https://shopee.co.id/product/277671211/18390714352/ "
+                        },
+                        {
+                            "name": "Master Brake Pump E2 Reservoir",
+                            "logo": "https://rcb.com/wp-content/uploads/2021/09/E2-Reservoir-black.png",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-master-brake-pump-e2-reservoir",
+                            "link2": "https://shopee.co.id/product/277671211/5143107275/ "
+                        },
+                        {
+                            "name": "Clutch Pump S1 Series",
+                            "logo": "https://rcb.com/wp-content/uploads/2021/09/S1-Clutch-Pump-gold.png",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-clutch-pump-s1-14mm-gold",
+                            "link2": "https://shopee.co.id/product/277671211/6359611890/"
                         }
                     ]
                 }
@@ -210,6 +282,24 @@ document.addEventListener("DOMContentLoaded", () => {
                             "logo" : "https://cdn.discordapp.com/attachments/1246347054813548635/1246347633237295125/sp811-1-jpg.png?ex=665c0f2f&is=665abdaf&hm=84a258f10538fad537891f695bf2ea6a9dcda13e43ab0fcfeece82d4f4edd4d1&",
                             "link1" : "https://id.shp.ee/9PrBY92",
                             "link2" : "https://tokopedia.link/5xBYQxGd4Jb"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Non-Tubbles",
+                    "logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyui0JD_TDqY8nUnxR2JA4Fb71tdNc5WkTTA&s",
+                    "products" : [
+                        {
+                            "name": "K772",
+                            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyui0JD_TDqY8nUnxR2JA4Fb71tdNc5WkTTA&s",
+                            "link1": "https://tokopedia.link/vSrjqSpF7Jb",
+                            "link2": "https://id.shp.ee/A1v92NN "
+                        },
+                        {
+                            "name": "K488",
+                            "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/10/15/196c2df6-eaa1-45e3-bf61-4d3be4e415bc.jpg",
+                            "link1": "https://tokopedia.link/KUBPVOjF7Jb",
+                            "link2": "https://id.shp.ee/9sXy5t7"
                         }
                     ]
                 }
