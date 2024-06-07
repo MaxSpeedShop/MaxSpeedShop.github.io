@@ -32,10 +32,28 @@ document.addEventListener("DOMContentLoaded", () => {
                     "logo" : "https://rcb.com/wp-content/uploads/2023/03/mb2-plus-b.png",
                     "products" : [
                         {
-                            "name" : "Monoshock 330mm Mb-2+",
-                            "logo" : "https://rcb.com/wp-content/uploads/2023/03/mb2-plus-b.png",
-                            "link1" : "https://tokopedia.link/5chYgiTY5Jb",
-                            "link2" : "https://id.shp.ee/SNusKzH"
+                            "name": "Monoshock Mb-2+ Series",
+                            "logo": "https://rcb.com/wp-content/uploads/2023/03/mb2-plus-b.png",
+                            "link1": "https://tokopedia.link/5chYgiTY5Jb",
+                            "link2": "https://id.shp.ee/SNusKzH "
+                        },
+                        {
+                            "name": "Monoshock A2 Pink Series",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lw6kwka110ne9f",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-monoshok-a2-series-pink-305mm-330mm",
+                            "link2": "https://shopee.co.id/product/277671211/18525734608/ "
+                        },
+                        {
+                            "name": "Monoshock Mb-2 Pink Series",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98y-lw6kwka12f7ud6",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-monoshok-mb-2-series-pink-305mm-330mm",
+                            "link2": "https://shopee.co.id/product/277671211/21825745281/ "
+                        },
+                        {
+                            "name": "Shock Mb-2 Pink Series",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98z-lw6kwka13tsa71",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-shock-mb-2-pink-series-305mm-nmax-new-aerox-new",
+                            "link2": "https://shopee.co.id/product/277671211/29851924670/"
                         }
                     ]
                 },
@@ -230,6 +248,48 @@ document.addEventListener("DOMContentLoaded", () => {
                             "link2": "https://shopee.co.id/product/277671211/6359611890/"
                         }
                     ]
+                },
+                {
+                    "name" : "Handle Bar",
+                    "logo" : "https://www.motomodz.com/cdn/shop/files/rcb-handlebar-taper-28-6-mm-x-series-low-moto-modz-2.png?v=1706518613",
+                    "products" : [
+                        {
+                            "name": "Handle Bar Mount Nmax",
+                            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYaISHrYegeUEk3O0qE2V__1sLh9C7qAB4fFn2rLZbf_Yj7QSFNg5J29QWEtZQ5tGg04&usqp=CAU",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-handle-bar-mount-nmax-28-6mm-re-black-gold-silver",
+                            "link2": "https://shopee.co.id/product/277671211/6841208370/ "
+                        },
+                        {
+                            "name": "Handlebar end Balancer M5",
+                            "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/4/24/1b9f5833-1aee-4b41-8c7e-853b8f593b28.jpg",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-jalu-stang-hitam-merah-silver",
+                            "link2": "https://shopee.co.id/product/277671211/18387555575/ "
+                        },
+                        {
+                            "name": "Bar Mount 28.6",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98r-lw6kwka0sl8q78",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-bar-mount-universal-28-6mm",
+                            "link2": "https://shopee.co.id/product/277671211/17703250016/ "
+                        },
+                        {
+                            "name": "Cover Raiser KLX",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98r-lw6kwka0zm2y50",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-cover-raiser-bar-mount-cover-klx-150",
+                            "link2": "https://shopee.co.id/product/277671211/4247655078/ "
+                        },
+                        {
+                            "name": "Handle Bar Taper 28.6mm (low)",
+                            "logo": "https://www.motomodz.com/cdn/shop/files/rcb-handlebar-taper-28-6-mm-x-series-low-moto-modz-2.png?v=1706518613",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-handle-bar-stang-28-6mm-low-mera-biru-oren-silver-gold",
+                            "link2": "https://shopee.co.id/product/277671211/8139314901/ "
+                        },
+                        {
+                            "name": "Stang Jepit R25",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lw6kwka0y7iid9",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-stang-jepit-r25",
+                            "link2": "https://shopee.co.id/product/277671211/5343848566/"
+                        }
+                    ]
                 }
             ]
         },
@@ -264,6 +324,18 @@ document.addEventListener("DOMContentLoaded", () => {
                             "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-loqj99nnguwc63_tn.webp",
                             "link1": "https://tokopedia.link/lbyeGOup7Jb",
                             "link2": "https://id.shp.ee/B78VwCM"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Cop Busi",
+                    "logo" : "https://down-id.img.susercontent.com/file/id-11134207-7r98u-ls29ls6gs85la7",
+                    "products" : [
+                        {
+                            "name": "Cop Busi 90°",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-ls29ls6gs85la7",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/daytona-5239-kop-busi-90",
+                            "link2": "https://shopee.co.id/product/277671211/24366119400/"
                         }
                     ]
                 }
