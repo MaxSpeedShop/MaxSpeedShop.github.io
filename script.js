@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 },
                 {
                     "name" : "Shock",
-                    "logo" : "https://rcb.com/wp-content/uploads/2023/03/mb2-plus-b.png",
+                    "logo" : "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lw9g1vt9c2d99d",
                     "products" : [
                         {
                             "name": "Monoshock Mb-2+ Series",
@@ -53,7 +53,79 @@ document.addEventListener("DOMContentLoaded", () => {
                             "name": "Shock Mb-2 Pink Series",
                             "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98z-lw6kwka13tsa71",
                             "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-shock-mb-2-pink-series-305mm-nmax-new-aerox-new",
-                            "link2": "https://shopee.co.id/product/277671211/29851924670/"
+                            "link2": "https://shopee.co.id/product/277671211/29851924670/ "
+                        },
+                        {
+                            "name": "Shock A2 Series",
+                            "logo": "https://rcb.com/wp-content/uploads/2021/09/a2-series-red-black.png",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-shock-a2-series-275mm-320mm-335mm-merah-hitam-titan",
+                            "link2": "https://shopee.co.id/product/277671211/25531856859/ "
+                        },
+                        {
+                            "name": "Monoshock A2 Series",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r992-lw9g1vt9ga2l72",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-monoshok-a2-series-330mm-305mm-vario125-150-beat-mio-sporty-fino-freego-fazzio-gear-mio-j-mio-s-black-red",
+                            "link2": "https://shopee.co.id/product/277671211/27552125516/ "
+                        },
+                        {
+                            "name": "Shock E Series",
+                            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLu6FxOMNtyz09aMLSQE0agz1nAEkDh6ejA&s",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-shok-e-series-335mm-blade-revo-supra-rx-king",
+                            "link2": "https://shopee.co.id/product/277671211/4946234951/ "
+                        },
+                        {
+                            "name": "Shock Flow Pro Series",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lw9g1vt9c2d99d",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-shock-flow-pro-nmax-old-nmax-new-aerox-pcx-160",
+                            "link2": "https://shopee.co.id/product/277671211/26502119548/ "
+                        },
+                        {
+                            "name": "Monoshock Flow Pro Series",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98p-lw9g1vt9j37h69",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-monoshok-flow-pro-330mm-305mm-340mm-series-mio-sporty-vario-125-vario-150-beat-fi-beat-karbu-soul-gt-mio-s-mio-j-fino-scoopy-fi-vario-160-mio-m3-freego-fazzio-gear",
+                            "link2": "https://shopee.co.id/product/277671211/25910727843/ "
+                        },
+                        {
+                            "name": "Shock Mb-2 Series",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98y-lw9g1vt9nawt8a",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-shock-mb-2-series-275mm-335mm-nmax-new-aerox-new-red-yellow-titan-hitam-black-series",
+                            "link2": "https://shopee.co.id/product/277671211/9497245746/ "
+                        },
+                        {
+                            "name": "Monoshock Mb-2 Series",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lw9kfjh9ermj80",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-monoshok-mb-2-series-mio-vario-305mm-330mm-beat-vario-scoopy-mio-sporty-soul-gt-freego-fazzio-gear-mio-j",
+                            "link2": "https://shopee.co.id/product/277671211/5946631303/ "
+                        },
+                        {
+                            "name": "Shock Mb-2+ Series",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r991-lw9kfjh9izbvac",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-shock-mb-2-nmax-old-330mm-275mm-335mm-red-titan-black-series",
+                            "link2": "https://shopee.co.id/product/277671211/11598905924/ "
+                        },
+                        {
+                            "name": "Shock VD Black Series",
+                            "logo": "https://down-id.img.susercontent.com/file/e130beeff6ff27d69f1802901bb31355",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-shock-vd-black-series-namx-old-nmax-new-aerox-new-335mm-rx-king-megapro-verza-supra-supra-x-125-revo",
+                            "link2": "https://shopee.co.id/product/277671211/24631947076/ "
+                        },
+                        {
+                            "name": "Shock Vs Series",
+                            "logo": "https://rcb.com/wp-content/uploads/2021/09/VS-red.png",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-shock-vs-series-nmax-old-aerox-275mm-335mm-red-black-series",
+                            "link2": "https://shopee.co.id/product/277671211/26552290982/ "
+                        },
+                        {
+                            "name": "Monoshock Vs Series",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-lwcapp9hdoa287",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-monoshock-vs-series-305mm-330mm-beat-vario-mio-sporty-freego-fazzio-gear-mio-j-fino-soul-gt-scoopy-genio",
+                            "link2": "https://shopee.co.id/product/277671211/26852302433/ "
+                        },
+                        {
+                            "name": "Monoshock VE Series",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lwcapp9hjajuac",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-monoshock-ve-black-series",
+                            "link2": "https://shopee.co.id/product/277671211/6965377064/"
                         }
                     ]
                 },
@@ -338,7 +410,31 @@ document.addEventListener("DOMContentLoaded", () => {
                             "link2": "https://shopee.co.id/product/277671211/24366119400/"
                         }
                     ]
-                }
+                },
+                {
+                    "name" : "Slider",
+                    "logo" : "https://down-id.img.susercontent.com/file/id-11134207-7r98p-lw9kfjh9lsgrac",
+                    "products" : [
+                        {
+                            "name": "Slider Piece Pulley",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98p-lw9kfjh9lsgrac",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/daytona-slider-piece-pulley-beat-fi-esp-vario110-scoopy-beat-genio-16-22-vario125-150-pcx-adv-nmax-aerox-mio125",
+                            "link2 ": "https://shopee.co.id/product/277671211/29252151385/"
+                        }
+                    ]
+                },
+                {
+                        "name" : "Bearing Wheel",
+                        "logo" : "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/3/11/4cf009ff-fb8b-4807-9a63-a0bf7e3f25e8.jpg",
+                        "products" : [
+                            {
+                                "name": "Bearing Wheel",
+                                "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/3/11/4cf009ff-fb8b-4807-9a63-a0bf7e3f25e8.jpg",
+                                "link1": "https://www.tokopedia.com/maxspeedracingshopp/daytona-bearing-wheel-6201-6203-6300-6301-6204",
+                                "link2 ": "https://shopee.co.id/product/277671211/18688918092/"
+                            }
+                        ]
+                    }
             ]
         },
         {
