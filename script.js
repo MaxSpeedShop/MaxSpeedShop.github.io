@@ -563,7 +563,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 },
                 {
                     "name" : "Pulley",
-                    "logo" : "https://id-live-01.slatic.net/p/74d4fd7cecd3521a16618223422ac627.jpg",
+                    "logo" : "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/9/5/a150ddaf-b27f-4d58-83bb-f424248697cc.jpg",
                     "products" : [
                         {
                             "name": "Pulley",
