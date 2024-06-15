@@ -362,6 +362,30 @@ document.addEventListener("DOMContentLoaded", () => {
                             "link2": "https://shopee.co.id/product/277671211/5343848566/"
                         }
                     ]
+                },
+                {
+                    "name" : "Cakram",
+                    "logo" : "https://cf.shopee.co.id/file/fef89c3a69445902745168a10cde1ffe",
+                    "products" : [
+                        {
+                            "name": "E Series",
+                            "logo": "https://cf.shopee.co.id/file/fef89c3a69445902745168a10cde1ffe",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-piringan-cakram-depan-e-series-nmax-old-mio-vario-beat-mx-king",
+                            "link2": "https://shopee.co.id/product/277671211/26602502514/ "
+                        },
+                        {
+                            "name": "E2 Series",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98v-lwf7j6vlm7u671",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-piringan-cakram-e2-series-depan-belakang-nmax-old-vario-160-nmax-old",
+                            "link2": "https://shopee.co.id/product/277671211/25526223532/ "
+                        },
+                        {
+                            "name": "S Series",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7qul3-lk6ae38iyy4je9",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-piringan-cakram-s-series-nmax-old-mx-king",
+                            "link2": "https://shopee.co.id/product/277671211/27802679424/"
+                        }
+                    ]
                 }
             ]
         },
@@ -424,17 +448,132 @@ document.addEventListener("DOMContentLoaded", () => {
                     ]
                 },
                 {
-                        "name" : "Bearing Wheel",
-                        "logo" : "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/3/11/4cf009ff-fb8b-4807-9a63-a0bf7e3f25e8.jpg",
-                        "products" : [
-                            {
-                                "name": "Bearing Wheel",
-                                "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/3/11/4cf009ff-fb8b-4807-9a63-a0bf7e3f25e8.jpg",
-                                "link1": "https://www.tokopedia.com/maxspeedracingshopp/daytona-bearing-wheel-6201-6203-6300-6301-6204",
-                                "link2 ": "https://shopee.co.id/product/277671211/18688918092/"
-                            }
-                        ]
-                    }
+                    "name" : "Bearing Wheel",
+                    "logo" : "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/3/11/4cf009ff-fb8b-4807-9a63-a0bf7e3f25e8.jpg",
+                    "products" : [
+                        {
+                            "name": "Bearing Wheel",
+                            "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/3/11/4cf009ff-fb8b-4807-9a63-a0bf7e3f25e8.jpg",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/daytona-bearing-wheel-6201-6203-6300-6301-6204",
+                            "link2 ": "https://shopee.co.id/product/277671211/18688918092/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Clutch Shoe",
+                    "logo" : "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lwdr5ypmgk3067",
+                    "products" : [
+                        {
+                            "name": "Clutch Shoe",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lwdr5ypmgk3067",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/daytona-kampas-ganda-nmax-vario-125-150-aerox-beat-mio-mio-j-soul-gt-scoopy-all-new-beat-beat-street",
+                            "link2": "https://shopee.co.id/product/277671211/29702299260/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Air Filter",
+                    "logo" : "https://media.monotaro.id/mid01/big/Otomotif%2C%20Truk%20%26%20Sepeda%20Motor/Onderdil%2C%20Aksesoris%20Motor/Perlengkapan%20Motor/Aksesoris%20Intake/Daytona%20Ultra%20Nano%20Air%20Filter/Daytona%20Ultra%20Nano%20Air%20Filter%20Mio%2C%20dll%201pc/S003432341-3.jpg",
+                    "products" : [
+                        {
+                            "name": "Air Filter",
+                            "logo": "https://media.monotaro.id/mid01/big/Otomotif%2C%20Truk%20%26%20Sepeda%20Motor/Onderdil%2C%20Aksesoris%20Motor/Perlengkapan%20Motor/Aksesoris%20Intake/Daytona%20Ultra%20Nano%20Air%20Filter/Daytona%20Ultra%20Nano%20Air%20Filter%20Mio%2C%20dll%201pc/S003432341-3.jpg",
+                            "link1": "https://tokopedia.link/8fJXa9ROpKb",
+                            "link2": "https://shopee.co.id/product/277671211/29702844617/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Busi Splug",
+                    "logo" : "https://s4.bukalapak.com/img/4579788648/s-400-400/data.png.webp",
+                    "products" : [
+                        {
+                            "name": "Busi Splug Double Iridium",
+                            "logo": "https://s4.bukalapak.com/img/4579788648/s-400-400/data.png.webp",
+                            "link1": "https://tokopedia.link/mibusE7mrKb",
+                            "link2": "https://shopee.co.id/product/277671211/26352927878/ "
+                        },
+                        {
+                            "name": "Busi Splug Tapered",
+                            "logo": "https://img.ws.mms.shopee.co.id/sg-11134201-22100-t3mrlepbhgive4",
+                            "link1": "https://tokopedia.link/zkhIaVSjrKb",
+                            "link2": "https://shopee.co.id/product/277671211/26452927109/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Gas Spontan",
+                    "logo" : "https://down-id.img.susercontent.com/file/id-11134207-7r98w-lwglemir9b1a39",
+                    "products" : [
+                        {
+                            "name": "Gas Spontan",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-lwglemir9b1a39",
+                            "link1": "https://www.tokopedia.com/maxspeedracingshopp/daytona-gas-spontan-2-kabel-matic-dan-bebek",
+                            "link2": "https://shopee.co.id/product/277671211/20574793886/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Mangkok",
+                    "logo" : "https://down-id.img.susercontent.com/file/id-11134207-7r990-lwdr5ypmhyngbf",
+                    "products" : [
+                        {
+                            "name": "Mangkok Kampas Ganda",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lwdr5ypmhyngbf",
+                            "link1": "https://tokopedia.link/LrgLs4FZkKb",
+                            "link2": "https://shopee.co.id/product/277671211/12678840561/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Per Kopling",
+                    "logo" : "https://down-id.img.susercontent.com/file/id-11134207-23020-zef8jy944snv16",
+                    "products" : [
+                        {
+                            "name": "Per Kopling",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-23020-zef8jy944snv16",
+                            "link1": "https://tokopedia.link/mJ3aGpOZkKb",
+                            "link2": "https://shopee.co.id/product/277671211/18849585560/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Brake Shoe",
+                    "logo" : "https://id-live-01.slatic.net/p/74d4fd7cecd3521a16618223422ac627.jpg",
+                    "products" : [
+                        {
+                            "name": "Brake Shoe",
+                            "logo": "https://id-live-01.slatic.net/p/74d4fd7cecd3521a16618223422ac627.jpg",
+                            "link1": "https://tokopedia.link/mZPe4T0VnKb",
+                            "link2": "https://shopee.co.id/product/277671211/24907768843/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Komstir",
+                    "logo" : "https://filebroker-cdn.lazada.co.id/kf/S103d349f3aa0483abd1184be4ef85692y.jpg",
+                    "products" : [
+                        {
+                            "name": "Komstir",
+                            "logo": "https://filebroker-cdn.lazada.co.id/kf/S103d349f3aa0483abd1184be4ef85692y.jpg",
+                            "link1": "https://tokopedia.link/LJyVUjAYnKb",
+                            "link2": "https://shopee.co.id/product/277671211/21250605288/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Pulley",
+                    "logo" : "https://id-live-01.slatic.net/p/74d4fd7cecd3521a16618223422ac627.jpg",
+                    "products" : [
+                        {
+                            "name": "Pulley",
+                            "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/9/5/a150ddaf-b27f-4d58-83bb-f424248697cc.jpg",
+                            "link1": "https://tokopedia.link/7LTviItZnKb",
+                            "link2": "https://shopee.co.id/product/277671211/20490908900/"
+                        }
+                    ]
+                },
+                
             ]
         },
         {
