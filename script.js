@@ -365,11 +365,11 @@ document.addEventListener("DOMContentLoaded", () => {
                 },
                 {
                     "name" : "Cakram",
-                    "logo" : "https://cf.shopee.co.id/file/fef89c3a69445902745168a10cde1ffe",
+                    "logo" : "https://down-id.img.susercontent.com/file/id-11134207-7r992-lwjj6vmgd7yld6",
                     "products" : [
                         {
                             "name": "E Series",
-                            "logo": "https://cf.shopee.co.id/file/fef89c3a69445902745168a10cde1ffe",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r992-lwjj6vmgd7yld6",
                             "link1": "https://www.tokopedia.com/maxspeedracingshopp/rcb-piringan-cakram-depan-e-series-nmax-old-mio-vario-beat-mx-king",
                             "link2": "https://shopee.co.id/product/277671211/26602502514/ "
                         },
@@ -502,6 +502,54 @@ document.addEventListener("DOMContentLoaded", () => {
                     ]
                 },
                 {
+                    "name" : "Per CVT",
+                    "logo" : "https://img.lazcdn.com/g/p/be0cca5feab1d671bae4943f21a6d304.png_960x960q80.png_.webp",
+                    "products" : [
+                        {
+                            "name": "Per CVT 1000rpm",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98r-lwglemirhqfy35",
+                            "link1": "https://tokopedia.link/uIPWT29goKb",
+                            "link2": "https://shopee.co.id/product/277671211/27152722104/ "
+                        },
+                        {
+                            "name": "Per CVT 1500rpm",
+                            "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/1/21/2fd74756-b208-4062-875d-03ee2b835204.png",
+                            "link1": "https://tokopedia.link/huJjL9CjoKb",
+                            "link2": "https://shopee.co.id/product/277671211/26102737848/ "
+                        },
+                        {
+                            "name": "Per CVT 2000rpm",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lwjj6vmgg13h60",
+                            "link1": "https://tokopedia.link/uPHnRZ5ArKb",
+                            "link2": "https://shopee.co.id/product/277671211/26302939329/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Brakepad",
+                    "logo" : "https://s4.bukalapak.com/img/46958693782/s-463-463/data.jpeg.webp",
+                    "products" : [
+                        {
+                            "name": "Brakepad ST",
+                            "logo": "https://s2.bukalapak.com/img/71774926882/s-463-463/data.jpeg.webp",
+                            "link1": "https://tokopedia.link/zCpD14eDrKb",
+                            "link2": "https://shopee.co.id/product/277671211/27752941269/ "
+                        },
+                        {
+                            "name": "Brakepad Premium",
+                            "logo": "https://s4.bukalapak.com/img/46958693782/s-463-463/data.jpeg.webp",
+                            "link1": "https://tokopedia.link/9DIBTTJFrKb",
+                            "link2": "https://shopee.co.id/product/277671211/26402946875/ "
+                        },
+                        {
+                            "name": "Brakepad GOLD",
+                            "logo": "https://id-test-11.slatic.net/p/e3107d637a7e692d0dccc074d9d817c7.jpg",
+                            "link1": "https://tokopedia.link/o2xJn0wGrKb",
+                            "link2": "https://shopee.co.id/product/277671211/26552942917/"
+                        }
+                    ]
+                },
+                {
                     "name" : "Gas Spontan",
                     "logo" : "https://down-id.img.susercontent.com/file/id-11134207-7r98w-lwglemir9b1a39",
                     "products" : [
@@ -522,6 +570,42 @@ document.addEventListener("DOMContentLoaded", () => {
                             "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lwdr5ypmhyngbf",
                             "link1": "https://tokopedia.link/LrgLs4FZkKb",
                             "link2": "https://shopee.co.id/product/277671211/12678840561/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Kampas Kopling",
+                    "logo" : "https://lzd-img-global.slatic.net/g/ff/kf/S1e36ff872e694edfaa2ab613da91ddeaj.jpg_360x360q75.jpg_.webp",
+                    "products" : [
+                        {
+                            "name": "Kampas Kopling",
+                            "logo": "https://lzd-img-global.slatic.net/g/ff/kf/S1e36ff872e694edfaa2ab613da91ddeaj.jpg_360x360q75.jpg_.webp",
+                            "link1": "https://tokopedia.link/SXfTAM9PxKb",
+                            "link2": "https://shopee.co.id/product/277671211/26903193108/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Drive Belt",
+                    "logo" : "https://img.lazcdn.com/g/ff/kf/Sa2ce707b46504e60b347cf7f1636ee1bI.jpg_720x720q80.jpg",
+                    "products" : [
+                        {
+                            "name": "Drive Belt",
+                            "logo": "https://img.lazcdn.com/g/ff/kf/Sa2ce707b46504e60b347cf7f1636ee1bI.jpg_720x720q80.jpg",
+                            "link1": "https://tokopedia.link/QsMSszqYxKb",
+                            "link2": "https://shopee.co.id/product/277671211/26103202461/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Drive Belt/Roller",
+                    "logo" : "https://www.daytonaindonesia.com/web/images/product/2021-12-29-154753.jpg",
+                    "products" : [
+                        {
+                            "name": "Drive Belt + Roller",
+                            "logo": "https://www.daytonaindonesia.com/web/images/product/2021-12-29-154753.jpg",
+                            "link1": "https://tokopedia.link/O8itBDpdyKb",
+                            "link2": "https://shopee.co.id/product/277671211/26453226319/"
                         }
                     ]
                 },
@@ -573,7 +657,66 @@ document.addEventListener("DOMContentLoaded", () => {
                         }
                     ]
                 },
-                
+                {
+                    "name" : "Roller",
+                    "logo" : "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/12/1/8f1e8889-07d6-47ec-aa9d-6f13f7cf2e27.jpg",
+                    "products" : [
+                        {
+                            "name": "Beat karbu/vario/scoopy",
+                            "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/12/1/8f1e8889-07d6-47ec-aa9d-6f13f7cf2e27.jpg",
+                            "link1": "https://tokopedia.link/f94O8FTfyKb",
+                            "link2": "https://shopee.co.id/product/277671211/24882427070/ "
+                        },
+                        {
+                            "name": "Beat fi/Vario fi/scoopy fi",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98p-lwpguyi9qy574a",
+                            "link1": "https://tokopedia.link/IEaD1XphyKb",
+                            "link2": "https://shopee.co.id/product/277671211/29353230537/ "
+                        },
+                        {
+                            "name": "Mio/Fino,mioj/finofi",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lwqmwm20zmb013",
+                            "link1": "https://tokopedia.link/rvOtJV8xzKb",
+                            "link2": "https://shopee.co.id/product/277671211/24532456676/ "
+                        },
+                        {
+                            "name": "Xeon/mio125/soulgt/nmax",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lwqmwm2110vg80",
+                            "link1": "https://tokopedia.link/LwX311LyzKb",
+                            "link2": "https://shopee.co.id/product/277671211/25132453683/ "
+                        },
+                        {
+                            "name": "Vario125 PGMFi/Vario150/PCX125",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lwqmwm212ffw84",
+                            "link1": "https://tokopedia.link/mEPz0ugzzKb",
+                            "link2": "https://shopee.co.id/product/277671211/28353288447/ "
+                        },
+                        {
+                            "name": "Vespa/Piaggio",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lwqmwm2181po3b",
+                            "link1": "https://tokopedia.link/80Vft9iMzKb",
+                            "link2": "https://shopee.co.id/product/277671211/26603306240/ "
+                        },
+                        {
+                            "name": "Xmax250",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r992-lwqmwm219ga431",
+                            "link1": "https://tokopedia.link/VsAwWDrNzKb",
+                            "link2": "https://shopee.co.id/product/277671211/25582467071/"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Cakram",
+                    "logo" : "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/9/5/a150ddaf-b27f-4d58-83bb-f424248697cc.jpg",
+                    "products" : [
+                        {
+                            "name": "Cakram",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98p-lwqmwm213u0c6f",
+                            "link1": "https://tokopedia.link/v7CJv6VCzKb",
+                            "link2": "https://shopee.co.id/product/277671211/27703295188/"
+                        }
+                    ]
+                },
             ]
         },
         {
@@ -635,7 +778,48 @@ document.addEventListener("DOMContentLoaded", () => {
             "name" : "DYNAVOLT",
             "logo" : "https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-logo/aef5e73842ab3b1c1cf70ea653720b88.jpg",
             "categories" : [
-                
+                {
+                    "name" : "Aki",
+                    "logo" : "https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-logo/aef5e73842ab3b1c1cf70ea653720b88.jpg",
+                    "products" : [
+                        {
+                            "name": "Kharisma",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lwnylhlwqur2d0",
+                            "link1": "https://tokopedia.link/156eRmFywKb",
+                            "link2": "https://shopee.co.id/product/277671211/28203127757/ "
+                        },
+                        {
+                            "name": "Supra",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98z-lwnylhlwtnvy2c",
+                            "link1": "https://tokopedia.link/tCSqd08xwKb",
+                            "link2": "https://shopee.co.id/product/277671211/27753130227/ "
+                        },
+                        {
+                            "name": "Satria FU, NMax",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lwnylhlwv2ge56",
+                            "link1": "https://tokopedia.link/5rxzdzPywKb",
+                            "link2": "https://shopee.co.id/product/277671211/27253135087/ "
+                        },
+                        {
+                            "name": "N-250",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98r-lwnylhlwwh0u13",
+                            "link1": "https://tokopedia.link/dI4bG6UywKb",
+                            "link2": "https://shopee.co.id/product/277671211/27903131399/ "
+                        },
+                        {
+                            "name": "Thunder",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lwnylhlwxvla0c",
+                            "link1": "https://tokopedia.link/GtNyTWZywKb",
+                            "link2": "https://shopee.co.id/product/277671211/28653135973/ "
+                        },
+                        {
+                            "name": "Tiger",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r991-lwp5b9oc9ijy3f",
+                            "link1": "https://tokopedia.link/dsFmZY2ywKb",
+                            "link2": "https://shopee.co.id/product/277671211/29303137495/"
+                        }
+                    ]
+                }
             ]
         },
         {
