@@ -14,18 +14,30 @@ document.addEventListener("DOMContentLoaded", () => {
                     "logo" : "https://rcb.com/wp-content/uploads/2021/09/sp811-1-jpg.webp",
                     "products" : [
                         {
-                          "name": "SP811",
-                          "logo": "https://rcb.com/wp-content/uploads/2021/09/sp811-1-jpg.webp",
-                          "link1": "https://tokopedia.link/5xBYQxGd4Jb",
-                          "link2": "https://id.shp.ee/9PrBY92"
+                            "name": "SP811",
+                            "logo": "https://rcb.com/wp-content/uploads/2021/09/sp811-1-jpg.webp",
+                            "link1": "https://tokopedia.link/3xcf5mUUJKb",
+                            "link2": "https://shopee.co.id/product/277671211/26203784228/ "
                         },
                         {
-                          "name": "Alloy rim/Daun Velg 160-17 ",
-                          "logo": "https://rcb.com/wp-content/uploads/2021/09/alloy-7-jpg.webp",
-                          "link1": "https://tokopedia.link/lbf6Xh1U5Jb",
-                          "link2": "https://id.shp.ee/fqxFDeD"
+                            "name": "Alloy rim/Daun Velg 160-17 ",
+                            "logo": "https://rcb.com/wp-content/uploads/2021/09/alloy-7-jpg.webp",
+                            "link1": "https://tokopedia.link/lbf6Xh1U5Jb",
+                            "link2": "https://id.shp.ee/fqxFDeD "
+                        },
+                        {
+                            "name": "Sp522",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-lwz7jh0inpnwb7",
+                            "link1": "https://tokopedia.link/bA5yu2TzJKb",
+                            "link2": "https://shopee.co.id/product/277671211/28853754544/ "
+                        },
+                        {
+                            "name": "Sp688",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lx0o8i3nzt4ae2",
+                            "link1": "https://tokopedia.link/QvHfRBsdLKb",
+                            "link2": "https://shopee.co.id/product/277671211/25274680308/"
                         }
-                       ]
+                    ]
                 },
                 {
                     "name" : "Shock",
@@ -386,6 +398,30 @@ document.addEventListener("DOMContentLoaded", () => {
                             "link2": "https://shopee.co.id/product/277671211/27802679424/"
                         }
                     ]
+                },
+                {
+                    "name" : "Jari-Jari",
+                    "logo" : "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lx0o8i3o17oq62",
+                    "products" : [
+                        {
+                            "name": "Jari-Jari Crome",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lx0o8i3o17oq62",
+                            "link1": "https://tokopedia.link/HDdy5CinLKb",
+                            "link2": "https://shopee.co.id/product/277671211/3243677838/ "
+                        },
+                        {
+                            "name": "Jari Jari Black with Gold Nipple",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7qul8-lgdd6kq7ts6gf8",
+                            "link1": "https://tokopedia.link/HG2XEsUtLKb",
+                            "link2": "https://shopee.co.id/product/277671211/16494543532/ "
+                        },
+                        {
+                            "name": "Jari Jari Gold with Gold Nipple",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7qul6-lgdd6kq7sdm07c",
+                            "link1": "https://tokopedia.link/4jbNmx5uLKb",
+                            "link2": "https://shopee.co.id/product/277671211/18879451124/"
+                        }
+                    ]
                 }
             ]
         },
@@ -707,7 +743,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 },
                 {
                     "name" : "Cakram",
-                    "logo" : "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/9/5/a150ddaf-b27f-4d58-83bb-f424248697cc.jpg",
+                    "logo" : "https://down-id.img.susercontent.com/file/id-11134207-7r98p-lwqmwm213u0c6f",
                     "products" : [
                         {
                             "name": "Cakram",
@@ -724,6 +760,36 @@ document.addEventListener("DOMContentLoaded", () => {
             "logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE5lKWaGlPI_HZFj7mdS7Ha3S6_dzmqFIeeQ&s",
             "categories" : [
                 {
+                    "name" : "Tatto Gel",
+                    "logo" : "https://down-id.img.susercontent.com/file/id-11134207-7r98r-lws1vht4fllq37",
+                    "products" : [
+                        {
+                            "name": "K492",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lwwb9og0nwdob5",
+                            "link1": "https://tokopedia.link/4ZIERCXvBKb",
+                            "link2": "https://shopee.co.id/product/277671211/26903406225/ "
+                        },
+                        {
+                            "name": "K6007",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98r-lws1vht4fllq37",
+                            "link1": "https://tokopedia.link/1b0LDQacBKb",
+                            "link2": "https://shopee.co.id/product/277671211/24760737691/ "
+                        },
+                        {
+                            "name": "K6009",
+                            "logo": "https://shopee.co.id/product/277671211/29203597096/",
+                            "link1": "https://tokopedia.link/yF6Si2jgBKb",
+                            "link2": "https://shopee.co.id/product/277671211/24110733279/ "
+                        },
+                        {
+                            "name": "K6022",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-lws1vht4h066ee",
+                            "link1": "https://tokopedia.link/V8KSRSCcBKb",
+                            "link2": "https://shopee.co.id/product/277671211/24510736166/"
+                        }
+                    ]
+                },
+                {
                     "name" : "Non-Tubbles",
                     "logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyui0JD_TDqY8nUnxR2JA4Fb71tdNc5WkTTA&s",
                     "products" : [
@@ -737,7 +803,121 @@ document.addEventListener("DOMContentLoaded", () => {
                             "name": "K488",
                             "logo": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/10/15/196c2df6-eaa1-45e3-bf61-4d3be4e415bc.jpg",
                             "link1": "https://tokopedia.link/KUBPVOjF7Jb",
-                            "link2": "https://id.shp.ee/9sXy5t7"
+                            "link2": "https://id.shp.ee/9sXy5t7 "
+                        },
+                        {
+                            "name": "K779",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lowbl8fgyiz768",
+                            "link1": "https://tokopedia.link/6sqIAxzwBKb",
+                            "link2": "https://shopee.co.id/product/277671211/16596857559/ "
+                        },
+                        {
+                            "name": "K6028",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lws1vht4o10e6c",
+                            "link1": "https://tokopedia.link/1fcCdGNxBKb",
+                            "link2": "https://shopee.co.id/product/277671211/27853404372/ "
+                        },
+                        {
+                            "name": "K262",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-lwtkjuwxquzfce",
+                            "link1": "https://tokopedia.link/aMhpdroXCKb",
+                            "link2": "https://shopee.co.id/product/277671211/2999691482/ "
+                        },
+                        {
+                            "name": "K783",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98r-lwwb9og0pay413",
+                            "link1": "https://tokopedia.link/wozEsVm3CKb",
+                            "link2": "https://shopee.co.id/product/277671211/25917307926/ "
+                        },
+                        {
+                            "name": "K270",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lowbl8fh1c43ee",
+                            "link1": "https://tokopedia.link/zwWt5qq4CKb",
+                            "link2": "https://shopee.co.id/product/277671211/21186700801/ "
+                        },
+                        {
+                            "name": "K760",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-lt6cs0kr0arh48",
+                            "link1": "https://tokopedia.link/1IyJ4KpbDKb",
+                            "link2": "https://shopee.co.id/product/277671211/25306654835/ "
+                        },
+                        {
+                            "name": "K6313",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98y-lwtkjuwxto4b2a",
+                            "link1": "https://tokopedia.link/QZBdetxcDKb",
+                            "link2": "https://shopee.co.id/product/277671211/24157755460/ "
+                        },
+                        {
+                            "name": "K785",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7qul3-livbivu5wlm2b2",
+                            "link1": "https://tokopedia.link/JJrtWZkaGKb",
+                            "link2": "https://shopee.co.id/product/277671211/16595210120/ "
+                        },
+                        {
+                            "name": "K280",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lowbl8fgzxjn38",
+                            "link1": "https://tokopedia.link/yzAsfm0bGKb",
+                            "link2": "https://shopee.co.id/product/277671211/20095692486/ "
+                        },
+                        {
+                            "name": "K433",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lwwb9og0wbscd5",
+                            "link1": "https://tokopedia.link/JDMH5nScGKb",
+                            "link2": "https://shopee.co.id/product/277671211/25132607937/ "
+                        },
+                        {
+                            "name": "k434",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lwwb9og0ux7wee",
+                            "link1": "https://tokopedia.link/Fa8gzH1eGKb",
+                            "link2": "https://shopee.co.id/product/277671211/29903588848/ "
+                        },
+                        {
+                            "name": "K6022",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r992-lwwb9og11y244a",
+                            "link1": "https://tokopedia.link/7MA8I7hKHKb",
+                            "link2": "https://shopee.co.id/product/277671211/29303606483/ "
+                        },
+                        {
+                            "name": "K6328",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98y-lwxowqj3k49918",
+                            "link1": "https://tokopedia.link/T7DoEMMLHKb",
+                            "link2": "https://shopee.co.id/product/277671211/28753653912/ "
+                        },
+                        {
+                            "name": "K665",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lwxowqj3obyld5",
+                            "link1": "https://tokopedia.link/3dBKiUKMHKb",
+                            "link2": "https://shopee.co.id/product/277671211/28953654343/ "
+                        },
+                        {
+                            "name": "K677",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-lwxowqj3sjnx88",
+                            "link1": "https://tokopedia.link/YrvbSrqPHKb",
+                            "link2": "https://shopee.co.id/product/277671211/24182652626/ "
+                        },
+                        {
+                            "name": "K761",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98v-lq5wxat6ozf46a",
+                            "link1": "https://tokopedia.link/Ikzz6mzTHKb",
+                            "link2": "https://shopee.co.id/product/277671211/25406894482/ "
+                        },
+                        {
+                            "name": "K482",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lwxowqj3wrd9c2",
+                            "link1": "https://tokopedia.link/QToSZas8HKb",
+                            "link2": "https://shopee.co.id/product/277671211/26853683521/ "
+                        },
+                        {
+                            "name": "K492",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98v-lowbl8fgx4era5",
+                            "link1": "https://tokopedia.link/khlR3SF9HKb",
+                            "link2": "https://shopee.co.id/product/277671211/19186749496/ "
+                        },
+                        {
+                            "name": "K6329",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lwy2cgo617kab1",
+                            "link1": "https://tokopedia.link/fQRKFDqbIKb",
+                            "link2": "https://shopee.co.id/product/277671211/24056884911/"
                         }
                     ]
                 },
@@ -761,7 +941,109 @@ document.addEventListener("DOMContentLoaded", () => {
                             "name": "K492",
                             "logo": "https://www.chongaik.com.sg/2675-superlarge_default/kenda-motorcycle-tyres-made-in-vietnam-k492.jpg",
                             "link1": "https://tokopedia.link/1TPOL3nF7Jb",
-                            "link2": "https://id.shp.ee/92BQLRT"
+                            "link2": "https://id.shp.ee/92BQLRT "
+                        },
+                        {
+                            "name": "K6028",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lws1vht4o10e6c",
+                            "link1": "https://tokopedia.link/1fcCdGNxBKb",
+                            "link2": "https://shopee.co.id/product/277671211/27853404372/ "
+                        },
+                        {
+                            "name": "K6309",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98y-lqimbem76vdc83",
+                            "link1": "https://tokopedia.link/R7QklJE2CKb",
+                            "link2": "https://shopee.co.id/product/277671211/24808541809/ "
+                        },
+                        {
+                            "name": "K6318",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lrqqilgidivhec",
+                            "link1": "https://tokopedia.link/aSIeZCE6CKb",
+                            "link2": "https://shopee.co.id/product/277671211/24813546906/ "
+                        },
+                        {
+                            "name": "K6313",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98y-lwtkjuwxto4b2a",
+                            "link1": "https://tokopedia.link/QZBdetxcDKb",
+                            "link2": "https://shopee.co.id/product/277671211/24157755460/ "
+                        },
+                        {
+                            "name": "K2014A",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-lwwb9og0qpik0f",
+                            "link1": "https://tokopedia.link/XHA18PXaGKb",
+                            "link2": "https://shopee.co.id/product/277671211/25582604245/ "
+                        },
+                        {
+                            "name": "K280",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lowbl8fgzxjn38",
+                            "link1": "https://tokopedia.link/yzAsfm0bGKb",
+                            "link2": "https://shopee.co.id/product/277671211/20095692486/ "
+                        },
+                        {
+                            "name": "K433",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lwwb9og0wbscd5",
+                            "link1": "https://tokopedia.link/JDMH5nScGKb",
+                            "link2": "https://shopee.co.id/product/277671211/25132607937/ "
+                        },
+                        {
+                            "name": "K434",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lwwb9og0ux7wee",
+                            "link1": "https://tokopedia.link/Fa8gzH1eGKb",
+                            "link2": "https://shopee.co.id/product/277671211/29903588848/ "
+                        },
+                        {
+                            "name": "K6010",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lwwb9og0z4x82e",
+                            "link1": "https://tokopedia.link/gLfmm1ymGKb",
+                            "link2": "https://shopee.co.id/product/277671211/29203597096/ "
+                        },
+                        {
+                            "name": "K6022",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r992-lwwb9og11y244a",
+                            "link1": "https://tokopedia.link/7MA8I7hKHKb",
+                            "link2": "https://shopee.co.id/product/277671211/29303606483/ "
+                        },
+                        {
+                            "name": "K6039",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-lwxowqj3ipot54",
+                            "link1": "https://tokopedia.link/zCjrBwKKHKb",
+                            "link2": "https://shopee.co.id/product/277671211/28753653258/ "
+                        },
+                        {
+                            "name": "K6328",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98y-lwxowqj3k49918",
+                            "link1": "https://tokopedia.link/T7DoEMMLHKb",
+                            "link2": "https://shopee.co.id/product/277671211/28753653912/ "
+                        },
+                        {
+                            "name": "K665",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lwxowqj3obyld5",
+                            "link1": "https://tokopedia.link/3dBKiUKMHKb",
+                            "link2": "https://shopee.co.id/product/277671211/28953654343/ "
+                        },
+                        {
+                            "name": "K677",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-lwxowqj3sjnx88",
+                            "link1": "https://tokopedia.link/YrvbSrqPHKb",
+                            "link2": "https://shopee.co.id/product/277671211/24182652626/ "
+                        },
+                        {
+                            "name": "K710",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98z-lowbl8fh2qoj26",
+                            "link1": "https://tokopedia.link/bPJRJPIPHKb",
+                            "link2": "https://shopee.co.id/product/277671211/14798520141/ "
+                        },
+                        {
+                            "name": "K761",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98v-lq5wxat6ozf46a",
+                            "link1": "https://tokopedia.link/Ikzz6mzTHKb",
+                            "link2": "https://shopee.co.id/product/277671211/25406894482/ "
+                        },
+                        {
+                            "name": "K6009",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lwxowqj3ty8d04",
+                            "link1": "https://tokopedia.link/4fcdE4F7HKb",
+                            "link2": "https://shopee.co.id/product/277671211/26353682881/"
                         }
                     ]
                 }
@@ -771,7 +1053,36 @@ document.addEventListener("DOMContentLoaded", () => {
             "name" : "XPress",
             "logo" : "https://down-id.img.susercontent.com/file/5c91f7e007df53d657d80140066f607b",
             "categories" : [
-                
+                {
+                    "name" : "Aki",
+                    "logo" : "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lx7rblwmx69p60",
+                    "products" : [
+                        {
+                            "name": "GTZ5S ",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98t-lx7rblwmx69p60",
+                            "link1": "https://tokopedia.link/Z2IhYE4sTKb",
+                            "link2": "https://shopee.co.id/product/277671211/28604290113/ "
+                        },
+                        {
+                            "name": "GTZ6V",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98v-lx7rblwmyku543",
+                            "link1": "https://tokopedia.link/CMdIAFOtTKb",
+                            "link2": "https://shopee.co.id/product/277671211/26254290788/ "
+                        },
+                        {
+                            "name": "GTZ7V",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lx7rblwmzzel12",
+                            "link1": "https://tokopedia.link/XUSmMteuTKb",
+                            "link2": "https://shopee.co.id/product/277671211/24232963180/ "
+                        },
+                        {
+                            "name": "GM5Z-38",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lx7rblwn1dz1ed",
+                            "link1": "https://tokopedia.link/aYk37qzuTKb",
+                            "link2": "https://shopee.co.id/product/277671211/29304291104/"
+                        }
+                    ]
+                }
             ]
         },
         {
