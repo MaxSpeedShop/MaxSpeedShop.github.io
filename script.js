@@ -634,7 +634,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     ]
                 },
                 {
-                    "name" : "Drive Belt/Roller",
+                    "name" : "Drive Belt + Roller",
                     "logo" : "https://www.daytonaindonesia.com/web/images/product/2021-12-29-154753.jpg",
                     "products" : [
                         {
@@ -795,7 +795,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         },
                         {
                             "name": "K6009",
-                            "logo": "https://shopee.co.id/product/277671211/29203597096/",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-lwwb9og10jho20",
                             "link1": "https://tokopedia.link/yF6Si2jgBKb",
                             "link2": "https://shopee.co.id/product/277671211/24110733279/ "
                         },
