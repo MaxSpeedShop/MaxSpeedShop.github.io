@@ -753,6 +753,24 @@ document.addEventListener("DOMContentLoaded", () => {
                         }
                     ]
                 },
+                {
+                    "name" : "Per Sentri",
+                    "logo" : "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lx95uizpczho6c",
+                    "products" : [
+                        {
+                            "name": "Per Sentri 1000rpm",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lx95uizpa6cs97",
+                            "link1": "https://tokopedia.link/j7hNt2F7UKb",
+                            "link2": "https://shopee.co.id/product/277671211/27604377704/ "
+                        },
+                        {
+                            "name": "Per Sentri 1500rpm",
+                            "logo": "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lx95uizpczho6c",
+                            "link1": "https://tokopedia.link/YQ0fWEA7UKb",
+                            "link2": "https://shopee.co.id/product/277671211/25933015231/"
+                        }
+                    ]
+                },
             ]
         },
         {
